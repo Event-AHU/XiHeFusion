@@ -58,10 +58,7 @@ CUDA_VISIBLE_DEVICES=2 API_PORT=8005 nohup llamafactory-cli api LLaMA-Thinks/exa
 # Execute
 python demo/api_demo.py
 ```
-
-
-
-### Environment Setting  
+ 
 
 ### Dataset Processing 
 <img src="https://github.com/Event-AHU/XiHeFusion/blob/main/figures/data_preprocess.jpg" alt="Watch the video" width="600"> 
@@ -80,11 +77,14 @@ Please check the file [[**questions_for_XiHeFusion.docx**](https://github.com/Ev
 <img src="https://github.com/Event-AHU/XiHeFusion/blob/main/figures/NFAssessment.jpg" alt="Watch the video" width="800">
 
 
-## Experimental Results 
-
-
-
 ## Acknowledgement 
+
+[[DeepSeek](https://github.com/deepseek-ai)], [[Qwen](https://github.com/QwenLM)] 
+
+This work is supported by the National Natural Science Foundation of China under Grant U24A20342, 62102205, and the Anhui Provincial Natural Science Foundation under Grant 2408085Y032. 
+The authors acknowledge the High-performance Computing Platform of Anhui University for providing computing resources. 
+We appreciate the fusion test questions provided by the following researchers: Jilei Hou, Yan Chao, Hua Zhou, Xin Lin, Gaoting Chen, and Wenmin Zhang, Zheyuan Si, Yiqi Liu. 
+We appreciate the assistance of the following students in crawling and preparing the training data, including Xiaoya Zhou, Hao Si, Chao Wang, Jin Liang, and Qian Zhu.
 
 
 
