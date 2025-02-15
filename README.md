@@ -42,7 +42,7 @@ Watch the demo video below:
 
 2.We provide a basic conversational demo and a programmatic demo using API calls in demo.
 
-3. Conversational demo:
+3.Conversational demo:
 
 ```python
 #Execute 
@@ -53,7 +53,7 @@ python demo/chat_demo.py
 
 ```python
 # Modify model_name_or_path in /examples/inference/api_inference.yaml
-# Load the model and modify API_PORT
+# Load the model and modify CUDA_VISIBLE_DEVICES API_PORT
 CUDA_VISIBLE_DEVICES=2 API_PORT=8005 nohup llamafactory-cli api LLaMA-Thinks/examples/inference/api_inference.yaml &
 # Execute
 python demo/api_demo.py
