@@ -1,7 +1,7 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
-def load_model(model_name="Finetune_saves/ChatPlasma-v1"):
+def load_model(model_name="Finetune_saves/XiHeFusion"):
     """Load the model and tokenizer from Hugging Face."""
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(
