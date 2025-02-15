@@ -46,7 +46,7 @@ Watch the demo video below:
 
 ```python
 #Execute 
-python chat_demo.py
+python demo/chat_demo.py
 ```
 
 4.API call execution:
@@ -56,7 +56,7 @@ python chat_demo.py
 # Load the model and modify API_PORT
 CUDA_VISIBLE_DEVICES=2 API_PORT=8005 nohup llamafactory-cli api LLaMA-Thinks/examples/inference/api_inference.yaml &
 # Execute
-python api_demo.py
+python demo/api_demo.py
 ```
 
 
