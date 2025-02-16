@@ -38,18 +38,18 @@ Watch the demo video below:
 
 ## Model Deployment 
 
-1.First, configure the relevant environment according to [https://github.com/hiyouga/LLaMA-Factory ](https://github.com/hiyouga/LLaMA-Factory).
+1. First, configure the relevant environment according to [https://github.com/hiyouga/LLaMA-Factory ](https://github.com/hiyouga/LLaMA-Factory).
 
-2.We provide a basic conversational demo and a programmatic demo using API calls in demo.
+2. We provide a basic conversational demo and a programmatic demo using API calls in demo.
 
-3.Conversational demo:
+3. Conversational demo:
 
 ```python
 #Execute 
 python demo/chat_demo.py
 ```
 
-4.API call execution:
+4. API call execution:
 
 ```python
 # Modify model_name_or_path in /examples/inference/api_inference.yaml
@@ -58,7 +58,14 @@ CUDA_VISIBLE_DEVICES=2 API_PORT=8005 nohup llamafactory-cli api LLaMA-Thinks/exa
 # Execute
 python demo/api_demo.py
 ```
- 
+
+
+Pre-trained model will be updated on: 
+
+* **BaiduYun**: [TO BE UPDATED] 
+  
+* **DropBox**: [TO BE UPDATED] 
+
 
 ### Dataset Processing 
 <img src="https://github.com/Event-AHU/XiHeFusion/blob/main/figures/data_preprocess.jpg" alt="Watch the video" width="600"> 
