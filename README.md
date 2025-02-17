@@ -64,7 +64,7 @@ Pre-trained model will be updated on:
 
 * **BaiduYun**: [TO BE UPDATED] 
   
-* **DropBox**: [TO BE UPDATED] 
+* **DropBox**: [URL](https://www.dropbox.com/scl/fo/c5kmxjmgzqajbfzj1342u/ACdcT9QcKtuYuNLaDFennwo?rlkey=ql8yxk1zduykuvg9czf2wj8m7&st=aq5lljv7&dl=0) 
 
 
 ### Dataset Processing 
