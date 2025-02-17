@@ -19,7 +19,9 @@ arXiv Pre-print arXiv:2502.05615 [[Paper](https://arxiv.org/abs/2502.05615)]**
 
 
 # :dart: To Do List 
-* The interface used for accessing from the web 
+* Open the interface to access the XiHeFusion large model on the web.
+<img src="https://github.com/Event-AHU/XiHeFusion/blob/main/figures/xihefusion.png" width="600">
+
 
 
 ## Abstract 
