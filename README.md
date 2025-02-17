@@ -62,7 +62,12 @@ python demo/api_demo.py
 
 Pre-trained model will be updated on: 
 
-* **BaiduYun**: [TO BE UPDATED] 
+* **BaiduYun**:
+```
+通过网盘分享的文件：XiHeFusion_checkpoint
+链接: https://pan.baidu.com/s/1fcZFuFvU5v28XU4w1Mcwdg?pwd=xihe 提取码: xihe 
+--来自百度网盘超级会员v5的分享
+```
   
 * **DropBox**: [URL](https://www.dropbox.com/scl/fo/c5kmxjmgzqajbfzj1342u/ACdcT9QcKtuYuNLaDFennwo?rlkey=ql8yxk1zduykuvg9czf2wj8m7&st=aq5lljv7&dl=0) 
 
