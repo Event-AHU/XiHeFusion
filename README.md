@@ -13,6 +13,8 @@ arXiv Pre-print arXiv:2502.05615 [[Paper](https://arxiv.org/abs/2502.05615)]**
 
 # :dart: News 
 
+* [2025.03.15] The **RAG based version** is available, please try it click [[here](https://16f9-220-178-83-43.ngrok-free.app/chat/share?shareId=142o197go5t7odvg2ydjbiip)]
+
 * [2025.03.05] Chinese version of the technique report is available [[EventAHU__XiHeFusion__LLM_for_Nuclear_Fusion-CN.pdf](https://github.com/Event-AHU/XiHeFusion/blob/main/EventAHU__XiHeFusion__LLM_for_Nuclear_Fusion-CN.pdf)]
 
 * [2025.02.06] Demo video for XiHeFusion is available on [**Youtube**](https://youtu.be/LqV61LrvGKg?si=nu-PMBL9ZtiLJFZT), [**Bilibili**](https://www.bilibili.com/video/BV1zuKKeXEw8/?share_source=copy_web&vd_source=bd3d199c910fc6b8eadfc40413435b61) 
@@ -20,8 +22,8 @@ arXiv Pre-print arXiv:2502.05615 [[Paper](https://arxiv.org/abs/2502.05615)]**
 * [2025.01.28] XiHeFusion is released on [GitHub](https://github.com/Event-AHU/XiHeFusion) 
 
 
-# :dart: To Do List 
-* Open the interface to access the XiHeFusion large model on the web.
+# :dart: Try it now !!!
+* the interface to access the XiHeFusion large model via: [[https://16f9-220-178-83-43.ngrok-free.app/chat/share?shareId=142o197go5t7odvg2ydjbiip](https://16f9-220-178-83-43.ngrok-free.app/chat/share?shareId=142o197go5t7odvg2ydjbiip)]
 <img src="https://github.com/Event-AHU/XiHeFusion/blob/main/figures/xihefusion.png" width="600">
 
 
