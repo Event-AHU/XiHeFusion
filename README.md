@@ -24,7 +24,7 @@ arXiv Pre-print arXiv:2502.05615 [[Paper](https://arxiv.org/abs/2502.05615)]**
 
 # :dart: Try it now !!!
 * the interface to access the XiHeFusion large model via: [[https://16f9-220-178-83-43.ngrok-free.app/chat/share?shareId=142o197go5t7odvg2ydjbiip](https://16f9-220-178-83-43.ngrok-free.app/chat/share?shareId=142o197go5t7odvg2ydjbiip)]
-<img src="https://github.com/Event-AHU/XiHeFusion/blob/main/figures/xihefusion.png" width="600">
+<img src="https://github.com/Event-AHU/XiHeFusion/blob/main/demo/xihefusion_demo.png" width="600">
 
 
 
