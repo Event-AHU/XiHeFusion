@@ -35,11 +35,16 @@ Nuclear fusion is one of the most promising ways for humans to obtain infinite e
 
 
 ## Demo Video 
-Watch the demo video below:
-
+* **Watch the demo video below:**
 - **Youtube**：[https://youtu.be/LqV61LrvGKg?si=nu-PMBL9ZtiLJFZT](https://youtu.be/LqV61LrvGKg?si=nu-PMBL9ZtiLJFZT)  
 
 - **Bilibili**：[XiHeFusion_Demo](https://www.bilibili.com/video/BV1zuKKeXEw8/?share_source=copy_web&vd_source=bd3d199c910fc6b8eadfc40413435b61) 
+
+
+* **The RAG based version is available:**
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/bce6ab80-9838-4fee-bd4b-7259b8267923" width="100%" poster=""> </video>
+</div>
 
 
 
