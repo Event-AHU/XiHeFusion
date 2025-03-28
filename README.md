@@ -13,6 +13,8 @@ arXiv Pre-print arXiv:2502.05615 [[Paper](https://arxiv.org/abs/2502.05615)]**
 
 # :dart: News 
 
+* [2025.03.27] The PPT of XiHeFusion reported in 第九届聚变等离子体诊断技术研讨会 is available at [[here](https://github.com/Event-AHU/XiHeFusion/blob/main/%E5%AE%89%E5%BE%BD%E5%A4%A7%E5%AD%A6%20XiHeFusion---%E7%8E%8B%E9%80%8D%20%E4%BA%91%E5%8D%972025.03.27.pdf)]
+
 * [2025.03.15] The **RAG based version** is available, please try it click [[here](https://16f9-220-178-83-43.ngrok-free.app/chat/share?shareId=142o197go5t7odvg2ydjbiip)]
 
 * [2025.03.05] Chinese version of the technique report is available [[EventAHU__XiHeFusion__LLM_for_Nuclear_Fusion-CN.pdf](https://github.com/Event-AHU/XiHeFusion/blob/main/EventAHU__XiHeFusion__LLM_for_Nuclear_Fusion-CN.pdf)]
